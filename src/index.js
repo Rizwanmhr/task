@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import MainComponent from './components/ReuseableButton/MainComponent';
-import ArrayMethods from './components/ArrayMethods/ArrayMethods';
+import ArrayMethods from './components/ArrayMethods/ArrayMethods'
 import FilterMethod from './components/ArrayMethods/FilterMethod';
 import FlatMethod from './components/ArrayMethods/FlatMethod';
 import PaginateTable from './components/PaginateTable/PaginateTable'
